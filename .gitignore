@@ -1,0 +1,5 @@
+venv/
+.idea/
+blog/articles/__pycache__/
+blog/articles/migrations/__pycache__/
+blog/blog/__pycache__/
